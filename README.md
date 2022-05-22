@@ -4,6 +4,7 @@ This repository contains my gpg keys.
 
 The main keys are:
 
+* cardno_13_143_152.pub (fingerprint `93AF3646C46C798532D168C3D84D4D0CE399ABCB`)
 * cardno_15_287_965.pub (fingerprint `1D2F8923AB206B90281DAFF84084EDCA0F289C8A`)
 * cardno_16_811_473.pub (fingerprint `0276DEA3EC6C6BA56C017B5827689BD8BCEB2563`)
 
